@@ -1,0 +1,16 @@
+{
+    "name": "allaf/sistema-cadastro",
+    "description": "Sistema de cadastro",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Allaf",
+            "email": "allaflima@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
